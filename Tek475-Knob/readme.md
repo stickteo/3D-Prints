@@ -1,5 +1,7 @@
 # Tek 475 Turn Knob
 
+![Final Result.](tek475_knob_final.jpg)
+
 # Problem
 
 My dad wanted a replica to replace the original broken one. Luckily there is a spare to refer to.
@@ -16,5 +18,10 @@ Luckily, the second print went well. The collar area needed a bit of sanding whi
 
 I should have checked the angles of the holes. It's not perfectly at 90 degrees. Measuring from a photo, it seems to be 105 degrees...
 
+# Measurements
+
+![Angle measurement.](tek475_knob_collar_measured.jpg)
+
 # Design
 
+![Open Scad Design.](tek475-openscad.png)
