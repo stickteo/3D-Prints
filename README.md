@@ -1,5 +1,8 @@
 # 3D-Prints
 
+# [Tek Feet](Tek-Feet/readme.md)
+![Photo](/Tek-Feet/tek-feet.jpg)
+
 # [Tek Toggle Cover](Tek-Toggle-Cover/readme.md)
 
 ![Photo](/Tek-Toggle-Cover/final-result.jpg)
